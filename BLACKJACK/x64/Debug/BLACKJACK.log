@@ -1,0 +1,76 @@
+﻿  BLACKJACK.cpp
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(61,82): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(61,23): warning C4244: 'initializing': conversion from '_Rep' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(76,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(77,82): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(77,23): warning C4244: 'initializing': conversion from '_Rep' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\BLACKJACK.cpp(115,16): warning C4129: ' ': unrecognized character escape sequence
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\BLACKJACK.cpp(119,16): warning C4129: '_': unrecognized character escape sequence
+  CARDS.cpp
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(61,82): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(61,23): warning C4244: 'initializing': conversion from '_Rep' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(76,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(77,82): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(77,23): warning C4244: 'initializing': conversion from '_Rep' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  PLAY.cpp
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(61,82): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(61,23): warning C4244: 'initializing': conversion from '_Rep' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(76,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(77,82): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\CARDS.h(77,23): warning C4244: 'initializing': conversion from '_Rep' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Generating Code...
+  BLACKJACK.vcxproj -> B:\FACULTATE\FACULTATE\ANUL 1\POO\PROIECTE\BLACKJACK\x64\Debug\BLACKJACK.exe
